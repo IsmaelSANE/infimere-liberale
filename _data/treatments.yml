@@ -1,0 +1,23 @@
+- icon: icon-hospital-o
+  title: Pansements simples et complexes
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-bed
+  title: Chimiothérapie
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-leaf
+  title: Soins d'hygiène et de confort
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+- icon: icon-heartbeat
+  title: Stomathérapie
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-tint
+  title: Injections IV, IM, SC
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+
+- icon: icon-calendar
+  title: Prise en charge liées au diabète
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?

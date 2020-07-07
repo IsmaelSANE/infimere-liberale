@@ -1,0 +1,34 @@
+# - name: Britta Perry
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
+
+# - name: Troy Barnes
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
+
+# - name: Annie
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
+
+# - name: Jeff Winger
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
+
+# - name: Britta Perry
+#   image: team.jpg
+#   email: email@gmail.com
+#   phone: 9659 43 21
+
+- name: Evelyne MOREAU
+  image: team1.png
+  email: moreaueve@yahoo.fr
+  phone: 06 84 48 43 09
+
+- name: Annie
+  image: team2.png
+  email: email@gmail.com
+  phone: 9659 43 21
